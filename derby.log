@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu May 21 12:17:09 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-35fc-54b6-000000fe7520 
+on database directory memory:/home/pranav/Downloads/Store/vendor-service/933f5b69-51f5-425c-b581-af2e13882d73 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5bc2b487 
+Loaded from file:/home/pranav/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=14.0.1+7-Ubuntu-1ubuntu1
+user.dir=/home/pranav/Downloads/Store/vendor-service
+os.name=Linux
+os.arch=amd64
+os.version=5.4.0-29-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
